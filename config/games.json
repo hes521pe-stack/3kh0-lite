@@ -1,5 +1,20 @@
 [
   {
+    "link": "projects/fancade/index.html",
+    "imgSrc": "projects/fancade/fancade.jpg",
+    "title": "Fancade"
+  },
+  {
+    "link": "projects/drivemad/index.html",
+    "imgSrc": "projects/drivemad/drivemad.webp",
+    "title": "Drive Mad"
+  },
+  {
+    "link": "projects/monkeymart/index.html",
+    "imgSrc": "projects/monkeymart/monkey-mart-f180x180.png",
+    "title": "Monkey mart"
+  },
+  {
     "link": "projects/1/index.html",
     "imgSrc": "projects/1/meta/apple-touch-icon.png",
     "title": "1"
