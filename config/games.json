@@ -410,6 +410,11 @@
     "title": "Minecraft Classic"
   },
   {
+    "link": "projects/minecraft-sp/index.html",
+    "imgSrc": "projects/minecraft-sp/pack.png",
+    "title": "Minecraft Singleplayer"
+  },
+  {
     "link": "projects/minesweeper/index.html",
     "imgSrc": "projects/minesweeper/img/minesweeper.png",
     "title": "Minesweeper"
